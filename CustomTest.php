@@ -1,6 +1,6 @@
 <?php
 
-class CustomTest
+class CustomTest extends LoadTestingTest
 {
   public function startTest()
   {
